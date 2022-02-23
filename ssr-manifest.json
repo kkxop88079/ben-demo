@@ -4,6 +4,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/assets/work01.jpg": [
@@ -11,6 +12,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/assets/work02.jpg": [
@@ -18,6 +20,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/assets/img01.jpg": [
@@ -25,6 +28,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/assets/img02.jpg": [
@@ -32,6 +36,15 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
+    "./assets/uiimg.e1771def.png"
+  ],
+  "src/assets/0008.jpg": [
+    "./assets/work01.b6fa354c.jpg",
+    "./assets/work02.e421569a.jpg",
+    "./assets/img01.2748824f.jpg",
+    "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "plugin-vue:export-helper": [
@@ -39,6 +52,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/components/works.vue": [
@@ -46,6 +60,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/components/Header.vue": [
@@ -53,6 +68,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/assets/uiimg.png": [
@@ -60,6 +76,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/components/Layout.vue": [
@@ -67,6 +84,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "~icons/heroicons-outline/globe-alt": [
@@ -74,6 +92,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/pages/index.vue": [
@@ -81,6 +100,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "../../../../../@vite-plugin-pages/generated-pages": [
@@ -88,6 +108,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/App.vue": [
@@ -95,6 +116,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/styles/index.css": [
@@ -102,6 +124,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "src/main.js": [
@@ -109,6 +132,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "index.html": [
@@ -116,6 +140,7 @@
     "./assets/work02.e421569a.jpg",
     "./assets/img01.2748824f.jpg",
     "./assets/img02.480740df.jpg",
+    "./assets/0008.c4619dca.jpg",
     "./assets/uiimg.e1771def.png"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
